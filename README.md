@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CascadeCanvas/CascadeCanvas.png?label=ready)](https://waffle.io/CascadeCanvas/CascadeCanvas)  
 # CascadeCanvas 1.0.7 Beta [![Build Status](https://travis-ci.org/CascadeCanvas/CascadeCanvas.png)](https://travis-ci.org/CascadeCanvas/CascadeCanvas)
 
 CascadeCanvas (CC) is an API to work with canvas rich applications (or games), drawing and organizing classes that works with mult-inheritance and will help to encapsulate behaviours to be reused to a lot of subclasses and instances. You should create classes, inherit this classes by other classes or "elements" and manipulate this classes or elements in the easiest way. It was made with the inspiration of jQuery and Crafty.
